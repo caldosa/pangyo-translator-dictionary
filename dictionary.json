@@ -12149,6 +12149,44 @@
       "priority": 92
     },
     {
+      "id": "security-backdoor",
+      "terms": [
+        "백도어",
+        "backdoor access",
+        "backdoor"
+      ],
+      "label": "판교사투리",
+      "plain": "정상 인증을 거치지 않고 시스템에 몰래 들어가도록 만든 숨은 접근 통로",
+      "priority": 92
+    },
+    {
+      "id": "cursor-ai-editor",
+      "terms": [
+        "Cursor AI",
+        "Cursor 에디터",
+        "Cursor IDE",
+        "커서 에디터"
+      ],
+      "label": "판교사투리",
+      "plain": "코드베이스를 이해하고 자연어로 코딩을 돕는 AI 코드 편집기",
+      "priority": 92
+    },
+    {
+      "id": "cerebras-ultrafast-inference",
+      "terms": [
+        "Cerebras Inference",
+        "Cerebras",
+        "세레브라스",
+        "Ultrafast 모드",
+        "ultrafast mode",
+        "ultrafast모드",
+        "울트라패스트 모드"
+      ],
+      "label": "판교사투리",
+      "plain": "Cerebras의 전용 AI 칩으로 모델 답변을 매우 빠르게 생성하는 추론 서비스나 고속 모드",
+      "priority": 92
+    },
+    {
       "id": "advisor",
       "terms": [
         "advisor"
