@@ -1,7 +1,7 @@
 {
   "format": "pango-shared-glossary",
   "version": 1,
-  "revision": "extension-0.16.0",
+  "revision": "extension-0.16.1",
   "updatedAt": "2026-08-30T00:00:00.000Z",
   "entries": [
     {
@@ -12187,6 +12187,36 @@
       "priority": 92
     },
     {
+      "id": "openrouter",
+      "terms": [
+        "OpenRouter",
+        "오픈라우터"
+      ],
+      "label": "판교사투리",
+      "plain": "여러 회사의 AI 모델을 하나의 API로 연결해 주는 중계 서비스",
+      "priority": 92
+    },
+    {
+      "id": "yubikey",
+      "terms": [
+        "YubiKey",
+        "유비키"
+      ],
+      "label": "판교사투리",
+      "plain": "로그인할 때 본인 확인에 쓰는 USB·NFC 방식의 물리 보안 키",
+      "priority": 92
+    },
+    {
+      "id": "openai-trusted-access-cyber",
+      "terms": [
+        "TAC 인증",
+        "TAC인증"
+      ],
+      "label": "판교사투리",
+      "plain": "OpenAI가 승인된 사이버보안 조직에 모델 접근을 허용하기 위한 신뢰 접근 프로그램 심사",
+      "priority": 92
+    },
+    {
       "id": "advisor",
       "terms": [
         "advisor"
@@ -12537,6 +12567,17 @@
       ],
       "label": "커뮤은어",
       "plain": "할 수 있는 일이 없어 가만히 기다리기만 하는 상태를 비꼬는 말",
+      "priority": 92
+    },
+    {
+      "id": "good-value-slang",
+      "terms": [
+        "혜자",
+        "혜자인",
+        "혜자인게"
+      ],
+      "label": "커뮤은어",
+      "plain": "가격이나 수고에 비해 성능·혜택이 아주 좋다는 커뮤니티 표현",
       "priority": 92
     },
     {
