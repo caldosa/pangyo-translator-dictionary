@@ -1,7 +1,7 @@
 {
   "format": "pango-shared-glossary",
   "version": 1,
-  "revision": "extension-0.16.2",
+  "revision": "extension-0.16.3",
   "updatedAt": "2026-08-30T00:00:00.000Z",
   "entries": [
     {
@@ -12376,6 +12376,17 @@
       ],
       "label": "전문용어",
       "plain": "학술 논문을 비공식적으로 제공하는 웹사이트",
+      "priority": 92
+    },
+    {
+      "id": "occams-razor",
+      "terms": [
+        "오컴의 면도날",
+        "Occam's razor",
+        "Occam’s razor"
+      ],
+      "label": "전문용어",
+      "plain": "같은 현상을 설명하는 가설 중 불필요한 가정이 적은 쪽을 우선하는 원칙",
       "priority": 92
     },
     {
